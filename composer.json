@@ -1,0 +1,7 @@
+{
+    "name": "djnet00/php7-nusoap",
+    "description": "Soap connection with PHP 7 ^",
+    "require": {
+        "php": "^7"
+    }
+}
