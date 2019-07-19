@@ -1,9 +1,5 @@
 # PHP7-Nusoap
 PHP7 soap connection
 
-# EDIT COMPOSER.JSON
-`"autoload": {
-    "classmap": [
-        "app/nusoap.php"
-    ]
-},`
+# ADD COMPOSER
+`composer require djnet00/php7-nusoap`
